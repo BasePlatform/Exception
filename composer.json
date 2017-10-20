@@ -17,7 +17,7 @@
         "classmap": [
         ],
         "psr-4": {
-            "Base\\Exception": "src/"
+            "Base\\Exception\\": "src/"
         }
     },
     "autoload-dev": {
