@@ -1,0 +1,32 @@
+{
+    "name": "baseplatform/app",
+    "description": "The Application template for integrating services of BasePlatform",
+    "keywords": ["base platform", "rest exceptions",],
+    "authors": [{
+        "name": "Tuan Nguyen",
+        "email": "nganhtuan63@gmail.com"
+    }],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "Base\\Exception": "src/"
+        }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+    },
+    "scripts": {
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
