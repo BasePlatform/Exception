@@ -1,5 +1,5 @@
 {
-    "name": "baseplatform/app",
+    "name": "baseplatform/exception",
     "description": "The Application template for integrating services of BasePlatform",
     "keywords": ["base platform", "rest exceptions",],
     "authors": [{
